@@ -5,7 +5,7 @@ from kivy.properties import (
 )
 from kivy.vector import Vector
 from kivy.clock import Clock
-
+#hi
 
 class PongPaddle(Widget):
     score = NumericProperty(0)
